@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi there!
-
 I'm Rohit Raj, a Cyber Security student passionate about exploring how systems work — and how to secure them.
 
 🔐 About Me
