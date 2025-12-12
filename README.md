@@ -30,13 +30,13 @@ I'm Rohit Raj, a Cyber Security student passionate about exploring how systems w
 
   * 💡 Love breaking things to understand how to protect them
 
-  * 🧰 Tools & Technologies I Use
+🧰 Tools & Technologies I Use
 
-Linux distros: Kali, Arch, Parrot OS, Ubuntu
+ * Linux distros: Kali, Arch, Parrot OS, Ubuntu
 
-Security tools: Nmap, Wireshark, Metasploit, Burp Suite, Aircrack-ng, more…
+ * Security tools: Nmap, Wireshark, Metasploit, Burp Suite, Aircrack-ng, more…
 
-Languages: Python, Bash
+ * Languages: Python, Bash
 
 📚 Currently Learning
 
